@@ -5,6 +5,8 @@
 
 Aqui ira conter todos os assuntos relacionados as aulas de banco de dados, SQL, para a turma do 3° ano de Informatica do CE Rio Branco.
 
+
+## [Para teste utilizaremos o sqlteste.net](https://sqltest.net/)
 ____
 #### Lista de aulas:
  - [Introdução ao SQL](docs/INTRODUCAO_SQL.md)
