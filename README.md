@@ -8,7 +8,7 @@ Aqui ira conter todos os assuntos relacionados as aulas de banco de dados, SQL, 
 
 [![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]() [![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
 
-## [Para teste utilizaremos o sqlteste.net](https://sqltest.net/)
+## [Para teste utilizaremos o sqliteonline.com](https://sqliteonline.com/)
 ____
 #### Lista de aulas:
  - [Introdução ao SQL](docs/INTRODUCAO_SQL.md)
