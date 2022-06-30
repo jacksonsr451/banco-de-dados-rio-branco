@@ -6,6 +6,8 @@
 Aqui ira conter todos os assuntos relacionados as aulas de banco de dados, SQL, para a turma do 3° ano de Informatica do CE Rio Branco.
 
 
+[![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]() [![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+
 ## [Para teste utilizaremos o sqlteste.net](https://sqltest.net/)
 ____
 #### Lista de aulas:
