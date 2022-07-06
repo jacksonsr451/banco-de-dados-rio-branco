@@ -13,5 +13,5 @@ ____
 #### Lista de aulas:
  - [Introdução ao SQL](docs/INTRODUCAO_SQL.md)
  - [Comando CREATE DATABASE](docs/AULA_1_CREATE_DATABASE.md)
- - [CREATE TABLE](docs/AULA_2_CREATE_TABLE.md)]
+ - [CREATE TABLE](docs/AULA_2_CREATE_TABLE.md)
  - [Atividade CREATE TABLE](./docs/ATIVIDADE_CREATE_TABLE.md)
