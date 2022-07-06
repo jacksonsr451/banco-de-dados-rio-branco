@@ -4,9 +4,11 @@
 
 [![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]() [![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
 
-Crie uma pasta no repositório, com o nome de atividade_06_julho_2022
-Dentro desta pasta, crie o arquivo com o nome de atividade.sql
-Já no arquivo atividade.sql, coloque os scripts para se criar as tabelas referentes ao diagrama.
+### **Crie uma pasta no repositório, com o nome de *atividade_06_julho_2022***
+
+### **Dentro desta pasta, crie o arquivo com o nome de *atividade.sql***
+
+### **Já no arquivo atividade.sql, coloque os scripts para se criar as tabelas referentes ao diagrama.**
 
 ![](./img/modelo_bd.png)
 
