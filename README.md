@@ -15,4 +15,4 @@ ____
  - [Comando CREATE DATABASE](docs/AULA_1_CREATE_DATABASE.md)
  - [CREATE TABLE](docs/AULA_2_CREATE_TABLE.md)
  - [Atividade CREATE TABLE](./docs/ATIVIDADE_CREATE_TABLE.md)
- - [Relacionamento no SQL](./docs/RELACIONAMENTO_NO_SQL.md)
+ - [Relacionamento no SQL](./docs/RELACIONAMENTOS_NO_SQL.md)
