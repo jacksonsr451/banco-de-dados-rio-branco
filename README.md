@@ -16,3 +16,5 @@ ____
  - [CREATE TABLE](docs/AULA_2_CREATE_TABLE.md)
  - [Atividade CREATE TABLE](./docs/ATIVIDADE_CREATE_TABLE.md)
  - [Relacionamento no SQL](./docs/RELACIONAMENTOS_NO_SQL.md)
+ - [FK Chave estrangeira](./docs/FK_CHAVE_ESTRANGEIRA.md)
+ - [Atividade aula 21/09/2022](./docs/ATIVIDADE_FK.md)
